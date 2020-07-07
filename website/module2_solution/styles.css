@@ -1,0 +1,23 @@
+body{
+	font-family: oxygen, sans-serif, lora;
+	color: black;
+}
+#header-nav{
+	background-color: gray;
+	border: 0;
+}
+h3{
+	text-align: center;
+	padding: 10px;
+	font-weight: bold;
+}
+center{
+	font-weight: bold;
+}
+.row{
+	margin: 15px;
+}
+.row > div{
+	margin: 5px;
+	background-color: gray;
+}
